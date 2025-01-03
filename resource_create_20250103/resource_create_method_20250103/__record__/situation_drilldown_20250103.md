@@ -1,1 +1,5 @@
-- 
+- little red book
+  - working in big tech company
+    - working feelings
+    - working problems
+    - 
